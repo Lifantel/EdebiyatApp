@@ -2,9 +2,7 @@
 
 Bu uygulama, edebiyat dersi öğrencilerinin ve öğretmenlerinin kullanımına yönelik olarak geliştirilmiş interaktif bir eğitim aracıdır. Kullanıcıların ders içeriklerine kolay erişim sağlaması hedeflenmiştir.
 
-Uygulama içerisinde Bing, Google ve YouTube
-
- arama özellikleri entegre edilmiştir. Bu sayede kullanıcılar, ihtiyaç duydukları edebiyat kaynaklarını ve videolarını uygulama içinden hızlıca aratabilirler. Böylece ders çalışırken farklı kaynaklara kolayca ulaşmak mümkün olur.
+Uygulama içerisinde Bing, Google ve YouTube arama özellikleri entegre edilmiştir. Bu sayede kullanıcılar, ihtiyaç duydukları edebiyat kaynaklarını ve videolarını uygulama içinden hızlıca aratabilirler. Böylece ders çalışırken farklı kaynaklara kolayca ulaşmak mümkün olur.
 
 **Geliştirme ve Kullanım**
 
