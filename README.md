@@ -8,7 +8,7 @@ Uygulama içerisinde Bing, Google ve YouTube arama özellikleri entegre edilmiş
 
 Uygulamayı geliştirmek veya güncel sürümünü kullanmak isteyenler, projenin Release sayfasından .py uzantılı Python dosyasını indirebilirler.
 
-Python programlama dilini kullanarak uygulamayı çalıştırmak için sistemlerinde Python’un yüklü olması gerekmektedir. Geliştirme yapmak isteyenler ise [Visual Studio Code](https://code.visualstudio.com/) gibi bir IDE kullanarak kodları rahatlıkla düzenleyebilirler.
+Python programlama dilini kullanarak uygulamayı geliştirmek için sistemlerinde Python’un yüklü olması gerekmektedir. Geliştirme yapmak isteyenler [Visual Studio Code](https://code.visualstudio.com/) gibi bir IDE (Ek Yardımcı Program) kullanarak kodları rahatlıkla düzenleyebilirler.
 
 **Lisans**
 
