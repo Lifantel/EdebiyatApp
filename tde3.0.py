@@ -13,8 +13,8 @@ logging.basicConfig(filename="app.log", level=logging.INFO, format="%(asctime)s 
 # -------------------
 # GÜNCELLEME AYARLARI
 # -------------------
-CURRENT_VERSION = "3.0"  # Şu anki uygulama sürümün; gerektiğinde bunu arttır
-# Kullanıcının verdiği token'lı raw link (senin verdiğin linki buraya yerleştirdim)
+CURRENT_VERSION = "3.0"  # Şu anki uygulama sürümü. gerektiğinde bunu arttır
+# Kullanıcının verdiği token'lı raw link 
 VERSION_URL = "https://raw.githubusercontent.com/Lifantel/EdebiyatApp/refs/heads/main/version.txt"
 # Release/puanlama sayfası (kullanıcıyı buraya yönlendirir)
 RELEASE_PAGE_URL = "https://github.com/Lifantel/EdebiyatApp/releases"
@@ -325,3 +325,4 @@ root.after(1500, periodic_check)
 
 # Ana döngü
 root.mainloop()
+
